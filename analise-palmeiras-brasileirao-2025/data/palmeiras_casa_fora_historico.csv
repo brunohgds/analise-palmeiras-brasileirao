@@ -1,0 +1,5 @@
+local_jogo,pontos_total,gols_pro_total,gols_contra_total,vitorias,empates,derrotas,temporada
+Casa,41,35.0,11.0,12,5,2,2025
+Fora,35,31.0,22.0,11,2,6,2025
+Casa,23,16.0,6.0,7,2,0,2026
+Fora,18,14.0,7.0,5,3,1,2026

@@ -1,0 +1,57 @@
+data,rodada,mandante,visitante,gols_mandante,gols_visitante,status,temporada,local_jogo,gols_pro,gols_contra,resultado,pontos,saldo_de_gols
+2025-03-30 19:00:00+00:00,1,SE Palmeiras,Botafogo FR,0.0,0.0,FINISHED,2025,Casa,0.0,0.0,Empate,1,0.0
+2025-04-06 21:30:00+00:00,2,SC Recife,SE Palmeiras,1.0,2.0,FINISHED,2025,Fora,2.0,1.0,Vitoria,3,1.0
+2025-04-12 21:30:00+00:00,3,SE Palmeiras,SC Corinthians Paulista,2.0,0.0,FINISHED,2025,Casa,2.0,0.0,Vitoria,3,2.0
+2025-04-16 22:30:00+00:00,4,SC Internacional,SE Palmeiras,0.0,1.0,FINISHED,2025,Fora,1.0,0.0,Vitoria,3,1.0
+2025-04-20 21:30:00+00:00,5,Fortaleza EC,SE Palmeiras,1.0,2.0,FINISHED,2025,Fora,2.0,1.0,Vitoria,3,1.0
+2025-04-27 21:30:00+00:00,6,SE Palmeiras,EC Bahia,0.0,1.0,FINISHED,2025,Casa,0.0,1.0,Derrota,0,-1.0
+2025-05-04 19:00:00+00:00,7,CR Vasco da Gama,SE Palmeiras,0.0,1.0,FINISHED,2025,Fora,1.0,0.0,Vitoria,3,1.0
+2025-05-11 20:30:00+00:00,8,SE Palmeiras,São Paulo FC,1.0,0.0,FINISHED,2025,Casa,1.0,0.0,Vitoria,3,1.0
+2025-05-18 21:30:00+00:00,9,RB Bragantino,SE Palmeiras,1.0,2.0,FINISHED,2025,Fora,2.0,1.0,Vitoria,3,1.0
+2025-05-25 19:00:00+00:00,10,SE Palmeiras,CR Flamengo,0.0,2.0,FINISHED,2025,Casa,0.0,2.0,Derrota,0,-2.0
+2025-06-01 22:30:00+00:00,11,Cruzeiro EC,SE Palmeiras,2.0,1.0,FINISHED,2025,Fora,1.0,2.0,Derrota,0,-1.0
+2025-07-16 22:00:00+00:00,14,SE Palmeiras,Mirassol FC,1.0,1.0,FINISHED,2025,Casa,1.0,1.0,Empate,1,0.0
+2025-07-20 20:30:00+00:00,15,SE Palmeiras,CA Mineiro,3.0,2.0,FINISHED,2025,Casa,3.0,2.0,Vitoria,3,1.0
+2025-07-23 22:00:00+00:00,16,Fluminense FC,SE Palmeiras,1.0,2.0,FINISHED,2025,Fora,2.0,1.0,Vitoria,3,1.0
+2025-07-27 00:00:00+00:00,17,SE Palmeiras,Grêmio FBPA,1.0,0.0,FINISHED,2025,Casa,1.0,0.0,Vitoria,3,1.0
+2025-08-03 22:30:00+00:00,18,EC Vitória,SE Palmeiras,2.0,2.0,FINISHED,2025,Fora,2.0,2.0,Empate,1,0.0
+2025-08-10 19:00:00+00:00,19,SE Palmeiras,Ceará SC,2.0,1.0,FINISHED,2025,Casa,2.0,1.0,Vitoria,3,1.0
+2025-08-17 23:30:00+00:00,20,Botafogo FR,SE Palmeiras,0.0,1.0,FINISHED,2025,Fora,1.0,0.0,Vitoria,3,1.0
+2025-08-25 22:00:00+00:00,21,SE Palmeiras,SC Recife,3.0,0.0,FINISHED,2025,Casa,3.0,0.0,Vitoria,3,3.0
+2025-08-31 21:30:00+00:00,22,SC Corinthians Paulista,SE Palmeiras,1.0,1.0,FINISHED,2025,Fora,1.0,1.0,Empate,1,0.0
+2025-09-13 21:30:00+00:00,23,SE Palmeiras,SC Internacional,4.0,1.0,FINISHED,2025,Casa,4.0,1.0,Vitoria,3,3.0
+2025-09-21 00:00:00+00:00,24,SE Palmeiras,Fortaleza EC,4.0,1.0,FINISHED,2025,Casa,4.0,1.0,Vitoria,3,3.0
+2025-09-28 19:00:00+00:00,25,EC Bahia,SE Palmeiras,1.0,0.0,FINISHED,2025,Fora,0.0,1.0,Derrota,0,-1.0
+2025-10-01 22:00:00+00:00,26,SE Palmeiras,CR Vasco da Gama,3.0,0.0,FINISHED,2025,Casa,3.0,0.0,Vitoria,3,3.0
+2025-10-05 19:00:00+00:00,27,São Paulo FC,SE Palmeiras,2.0,3.0,FINISHED,2025,Fora,3.0,2.0,Vitoria,3,1.0
+2025-10-11 22:00:00+00:00,12,SE Palmeiras,EC Juventude,4.0,1.0,FINISHED,2025,Casa,4.0,1.0,Vitoria,3,3.0
+2025-10-15 22:00:00+00:00,28,SE Palmeiras,RB Bragantino,5.0,1.0,FINISHED,2025,Casa,5.0,1.0,Vitoria,3,4.0
+2025-10-19 19:00:00+00:00,29,CR Flamengo,SE Palmeiras,3.0,2.0,FINISHED,2025,Fora,2.0,3.0,Derrota,0,-1.0
+2025-10-26 23:30:00+00:00,30,SE Palmeiras,Cruzeiro EC,0.0,0.0,FINISHED,2025,Casa,0.0,0.0,Empate,1,0.0
+2025-11-02 21:30:00+00:00,31,EC Juventude,SE Palmeiras,0.0,2.0,FINISHED,2025,Fora,2.0,0.0,Vitoria,3,2.0
+2025-11-07 00:30:00+00:00,32,SE Palmeiras,Santos FC,2.0,0.0,FINISHED,2025,Casa,2.0,0.0,Vitoria,3,2.0
+2025-11-09 23:30:00+00:00,33,Mirassol FC,SE Palmeiras,2.0,1.0,FINISHED,2025,Fora,1.0,2.0,Derrota,0,-1.0
+2025-11-16 00:00:00+00:00,13,Santos FC,SE Palmeiras,1.0,0.0,FINISHED,2025,Fora,0.0,1.0,Derrota,0,-1.0
+2025-11-19 22:30:00+00:00,37,SE Palmeiras,EC Vitória,0.0,0.0,FINISHED,2025,Casa,0.0,0.0,Empate,1,0.0
+2025-11-23 00:30:00+00:00,35,SE Palmeiras,Fluminense FC,0.0,0.0,FINISHED,2025,Casa,0.0,0.0,Empate,1,0.0
+2025-11-26 00:30:00+00:00,36,Grêmio FBPA,SE Palmeiras,3.0,2.0,FINISHED,2025,Fora,2.0,3.0,Derrota,0,-1.0
+2025-12-04 00:30:00+00:00,34,CA Mineiro,SE Palmeiras,0.0,3.0,FINISHED,2025,Fora,3.0,0.0,Vitoria,3,3.0
+2025-12-07 19:00:00+00:00,38,Ceará SC,SE Palmeiras,1.0,3.0,FINISHED,2025,Fora,3.0,1.0,Vitoria,3,2.0
+2026-01-28 22:00:00+00:00,1,CA Mineiro,SE Palmeiras,2.0,2.0,FINISHED,2026,Fora,2.0,2.0,Empate,1,0.0
+2026-02-05 00:30:00+00:00,2,SE Palmeiras,EC Vitória,5.0,1.0,FINISHED,2026,Casa,5.0,1.0,Vitoria,3,4.0
+2026-02-13 00:30:00+00:00,3,SC Internacional,SE Palmeiras,1.0,3.0,FINISHED,2026,Fora,3.0,1.0,Vitoria,3,2.0
+2026-02-26 00:30:00+00:00,4,SE Palmeiras,Fluminense FC,2.0,1.0,FINISHED,2026,Casa,2.0,1.0,Vitoria,3,1.0
+2026-03-12 22:30:00+00:00,5,CR Vasco da Gama,SE Palmeiras,2.0,1.0,FINISHED,2026,Fora,1.0,2.0,Derrota,0,-1.0
+2026-03-15 21:30:00+00:00,6,SE Palmeiras,Mirassol FC,1.0,0.0,FINISHED,2026,Casa,1.0,0.0,Vitoria,3,1.0
+2026-03-18 22:00:00+00:00,7,SE Palmeiras,Botafogo FR,2.0,1.0,FINISHED,2026,Casa,2.0,1.0,Vitoria,3,1.0
+2026-03-22 00:00:00+00:00,8,São Paulo FC,SE Palmeiras,0.0,1.0,FINISHED,2026,Fora,1.0,0.0,Vitoria,3,1.0
+2026-04-03 00:30:00+00:00,9,SE Palmeiras,Grêmio FBPA,2.0,1.0,FINISHED,2026,Casa,2.0,1.0,Vitoria,3,1.0
+2026-04-05 22:30:00+00:00,10,EC Bahia,SE Palmeiras,1.0,2.0,FINISHED,2026,Fora,2.0,1.0,Vitoria,3,1.0
+2026-04-12 21:30:00+00:00,11,SC Corinthians Paulista,SE Palmeiras,0.0,0.0,FINISHED,2026,Fora,0.0,0.0,Empate,1,0.0
+2026-04-19 21:30:00+00:00,12,SE Palmeiras,CA Paranaense,1.0,0.0,FINISHED,2026,Casa,1.0,0.0,Vitoria,3,1.0
+2026-04-26 21:30:00+00:00,13,RB Bragantino,SE Palmeiras,0.0,1.0,FINISHED,2026,Fora,1.0,0.0,Vitoria,3,1.0
+2026-05-02 21:30:00+00:00,14,SE Palmeiras,Santos FC,1.0,1.0,FINISHED,2026,Casa,1.0,1.0,Empate,1,0.0
+2026-05-10 20:40:00+00:00,15,Clube do Remo,SE Palmeiras,1.0,1.0,FINISHED,2026,Fora,1.0,1.0,Empate,1,0.0
+2026-05-17 00:00:00+00:00,16,SE Palmeiras,Cruzeiro EC,1.0,1.0,FINISHED,2026,Casa,1.0,1.0,Empate,1,0.0
+2026-05-24 00:00:00+00:00,17,CR Flamengo,SE Palmeiras,0.0,3.0,FINISHED,2026,Fora,3.0,0.0,Vitoria,3,3.0
+2026-05-31 19:00:00+00:00,18,SE Palmeiras,Chapecoense AF,1.0,0.0,FINISHED,2026,Casa,1.0,0.0,Vitoria,3,1.0
